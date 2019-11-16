@@ -32,4 +32,4 @@
 - Настрой раздачу статических файлов в репозитории на `GitHub` и проверь
   работоспособность живой страницы.
 
-[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+[Шпаргалка по синтаксису markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
