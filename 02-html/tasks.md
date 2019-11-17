@@ -28,12 +28,12 @@
 
 URL для ссылок:
 
-- `https://kentcdodds.com/` - главная страница
-- `https://kentcdodds.com/blog/` - страница блога
-- `https://kentcdodds.com/talks/` - страница выступлений
-- `https://kentcdodds.com/workshops/` - страница воркшопов
-- `https://kentcdodds.com/chats-with-kent-podcast` - страница подкастов
-- `https://kentcdodds.com/about/` - страница о сайте
+- `/` - главная страница
+- `/blog` - страница блога
+- `/talks` - страница выступлений
+- `/workshops` - страница воркшопов
+- `/podcast` - страница подкастов
+- `/about` - страница о сайте
 
 ![превью задания](./images/task-04.jpg)
 
