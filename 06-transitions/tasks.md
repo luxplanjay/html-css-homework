@@ -37,22 +37,22 @@ CSS-переходы сделай так, чтобы цвет фона изме�
 Сверстай и добавь оформление карточки для онлайн галереи со следующей разметкой.
 
 ```html
-<div class="card">
+<section class="card">
   <img
     src="https://cdn.pixabay.com/photo/2017/08/30/12/45/girl-2696947__480.jpg"
     alt="colors of the world painting"
     width="320"
   />
 
-  <section class="overlay">
+  <div class="overlay">
     <h2 class="name">Colors of the world</h2>
     <p class="about">
       Lorem ipsum dolor sit amet consect, adipisicing elit. Ipsa earum minima
       alias quaerat obcaecati ad totam facilis, architecto repudiandae vero
       tenetur delectus harum, inventore eum magni, hic sed. Ad, tempore!
     </p>
-  </section>
-</div>
+  </div>
+</section>
 ```
 
 Добавь эффект появления `section.overlay` за `250ms` при ховере как на изображении.
